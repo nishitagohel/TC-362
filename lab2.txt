@@ -1,6 +1,6 @@
-server from lab1 = 162.242.232.193, password: 8TLtVGopLAz
+server from lab1(nishitagohel) = 162.242.232.193
 
-server from lab2(nishitagohel-clone) = 162.242.232.139, password:zn42y9Ww53tX
+server from lab2(nishitagohel-clone) = 162.242.232.139
 port: 22984
-username: jeff, password: siarto
-username: nishi, password: gohel
+username: jeff
+username: nishi
